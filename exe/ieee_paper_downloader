@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "ieee_paper_downloader"
+IEEEPaperDownloader::CLI.start
